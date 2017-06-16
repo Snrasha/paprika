@@ -6,3 +6,8 @@ paprika.iml
 
 .DS_Store
 /target/
+
+.project
+Target/
+.classpath
+**/*.settings
