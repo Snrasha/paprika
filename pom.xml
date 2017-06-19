@@ -5,7 +5,7 @@
 
 	<groupId>paprika</groupId>
 	<artifactId>Paprika</artifactId>
-	<version>0.2</version>
+	<version>latest</version>
 	<packaging>jar</packaging>
 	<build>
 		<finalName>Paprika</finalName>
